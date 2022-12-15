@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+https://open.appacademy.io/learn/ch---oct-2022-sf-cohort/react/rails-react-redux-configuration-checklist-
